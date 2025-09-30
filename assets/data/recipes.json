@@ -1,0 +1,170 @@
+[
+  {
+    "title": "Caesar Salad",
+    "image": "",
+    "caption": "Fresh, crunchy, and perfect for a light meal.",
+    "ingredients": [
+      { "item": "romaine lettuce", "serving": "1 head" },
+      { "item": "croutons", "serving": "1 cup" },
+      { "item": "parmesan cheese", "serving": "1/4 cup" },
+      { "item": "Caesar dressing", "serving": "3 tbsp" }
+    ],
+    "steps": "Wash and chop the lettuce.\nAdd croutons and parmesan.\nToss with Caesar dressing before serving.",
+    "userId": "XNGjl1qubwhjmGSqaGOsbfGpBxp1",
+    "likes": 0,
+    "commentCount": 0,
+    "avgRating": 0,
+    "createdAt": "serverTimestamp()"
+  },
+  {
+    "title": "Tacos",
+    "image": "",
+    "caption": "Fun and customizable dinner idea.",
+    "ingredients": [
+      { "item": "taco shells", "serving": "6" },
+      { "item": "ground beef", "serving": "250g" },
+      { "item": "cheese", "serving": "1/2 cup" },
+      { "item": "lettuce", "serving": "1/2 head" }
+    ],
+    "steps": "Cook ground beef with taco seasoning.\nFill taco shells with meat, lettuce, and cheese.\nAdd salsa or sour cream if desired.",
+    "userId": "XNGjl1qubwhjmGSqaGOsbfGpBxp1",
+    "likes": 0,
+    "commentCount": 0,
+    "avgRating": 0,
+    "createdAt": "serverTimestamp()"
+  },
+  {
+    "title": "Quesadillas",
+    "image": "",
+    "caption": "Cheesy and quick to make snack.",
+    "ingredients": [
+      { "item": "flour tortillas", "serving": "2" },
+      { "item": "cheese", "serving": "1 cup" },
+      { "item": "chicken", "serving": "1/2 cup (optional)" }
+    ],
+    "steps": "Place cheese (and chicken) between tortillas.\nCook on skillet until golden on both sides.\nCut into wedges and serve.",
+    "userId": "XNGjl1qubwhjmGSqaGOsbfGpBxp1",
+    "likes": 0,
+    "commentCount": 0,
+    "avgRating": 0,
+    "createdAt": "serverTimestamp()"
+  },
+  {
+    "title": "Guacamole & Chips",
+    "image": "",
+    "caption": "Simple and tasty party dip.",
+    "ingredients": [
+      { "item": "avocados", "serving": "2" },
+      { "item": "lime", "serving": "1" },
+      { "item": "salt", "serving": "to taste" },
+      { "item": "tortilla chips", "serving": "1 bag" }
+    ],
+    "steps": "Mash avocados with lime juice and salt.\nServe with tortilla chips for dipping.",
+    "userId": "XNGjl1qubwhjmGSqaGOsbfGpBxp1",
+    "likes": 0,
+    "commentCount": 0,
+    "avgRating": 0,
+    "createdAt": "serverTimestamp()"
+  },
+  {
+    "title": "Grilled Salmon",
+    "image": "",
+    "caption": "Healthy and flavorful fish dish.",
+    "ingredients": [
+      { "item": "salmon fillet", "serving": "200g" },
+      { "item": "olive oil", "serving": "1 tbsp" },
+      { "item": "lemon", "serving": "1/2" },
+      { "item": "salt & pepper", "serving": "to taste" }
+    ],
+    "steps": "Season salmon with oil, lemon, salt, and pepper.\nGrill for 4-5 minutes per side.\nServe with vegetables or rice.",
+    "userId": "XNGjl1qubwhjmGSqaGOsbfGpBxp1",
+    "likes": 0,
+    "commentCount": 0,
+    "avgRating": 0,
+    "createdAt": "serverTimestamp()"
+  },
+  {
+    "title": "Omelette",
+    "image": "",
+    "caption": "Fast and protein-packed breakfast.",
+    "ingredients": [
+      { "item": "eggs", "serving": "2" },
+      { "item": "milk", "serving": "2 tbsp" },
+      { "item": "cheese", "serving": "1/4 cup" },
+      { "item": "vegetables", "serving": "1/4 cup (optional)" }
+    ],
+    "steps": "Whisk eggs with milk.\nCook in pan until almost set, then add cheese and veggies.\nFold in half and serve.",
+    "userId": "XNGjl1qubwhjmGSqaGOsbfGpBxp1",
+    "likes": 0,
+    "commentCount": 0,
+    "avgRating": 0,
+    "createdAt": "serverTimestamp()"
+  },
+  {
+    "title": "Roast Vegetables",
+    "image": "",
+    "caption": "Easy side dish with lots of flavor.",
+    "ingredients": [
+      { "item": "mixed vegetables", "serving": "3 cups" },
+      { "item": "olive oil", "serving": "2 tbsp" },
+      { "item": "salt & pepper", "serving": "to taste" }
+    ],
+    "steps": "Chop vegetables into bite-sized pieces.\nToss with olive oil, salt, and pepper.\nRoast at 200°C for 20–25 minutes.",
+    "userId": "XNGjl1qubwhjmGSqaGOsbfGpBxp1",
+    "likes": 0,
+    "commentCount": 0,
+    "avgRating": 0,
+    "createdAt": "serverTimestamp()"
+  },
+  {
+    "title": "Mac & Cheese",
+    "image": "",
+    "caption": "Creamy and cheesy comfort food.",
+    "ingredients": [
+      { "item": "macaroni", "serving": "200g" },
+      { "item": "milk", "serving": "1 cup" },
+      { "item": "cheddar cheese", "serving": "1 cup" },
+      { "item": "butter", "serving": "2 tbsp" }
+    ],
+    "steps": "Cook pasta until al dente.\nMake a cheese sauce with butter, milk, and cheese.\nMix pasta with sauce and serve.",
+    "userId": "XNGjl1qubwhjmGSqaGOsbfGpBxp1",
+    "likes": 0,
+    "commentCount": 0,
+    "avgRating": 0,
+    "createdAt": "serverTimestamp()"
+  },
+  {
+    "title": "Smoothie Bowl",
+    "image": "",
+    "caption": "Colorful and nutritious breakfast option.",
+    "ingredients": [
+      { "item": "frozen berries", "serving": "1 cup" },
+      { "item": "banana", "serving": "1" },
+      { "item": "yogurt", "serving": "1/2 cup" },
+      { "item": "granola", "serving": "1/4 cup" }
+    ],
+    "steps": "Blend berries, banana, and yogurt until smooth.\nPour into bowl and top with granola and fresh fruit.",
+    "userId": "XNGjl1qubwhjmGSqaGOsbfGpBxp1",
+    "likes": 0,
+    "commentCount": 0,
+    "avgRating": 0,
+    "createdAt": "serverTimestamp()"
+  },
+  {
+    "title": "Chocolate Chip Cookies",
+    "image": "",
+    "caption": "Classic dessert, crispy outside and chewy inside.",
+    "ingredients": [
+      { "item": "flour", "serving": "1 1/4 cups" },
+      { "item": "butter", "serving": "1/2 cup" },
+      { "item": "sugar", "serving": "1/2 cup" },
+      { "item": "chocolate chips", "serving": "3/4 cup" }
+    ],
+    "steps": "Cream butter and sugar together.\nMix in flour and chocolate chips.\nScoop onto tray and bake at 180°C for 10–12 minutes.",
+    "userId": "XNGjl1qubwhjmGSqaGOsbfGpBxp1",
+    "likes": 0,
+    "commentCount": 0,
+    "avgRating": 0,
+    "createdAt": "serverTimestamp()"
+  }
+]
