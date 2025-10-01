@@ -1,7 +1,7 @@
 <h1>Nibbly - Social Recipe Sharing Mobile App</h1>
 <h2>Overview</h2>
 Nibbly is a mobile application that combines the joy of discovering new recipes with the interactivity of a social platform. 
-Unlike traditional recipe apps, Nibbly introduces features like likes, comments, uploads, and personalized feeds—bringing the 
+Unlike traditional recipe apps, Nibbly introduces features like likes, comments, uploads, and personalized feeds, bringing the 
 familiar feel of Instagram into the cooking space. 
 <br>
 <br>
@@ -17,6 +17,7 @@ Key goals of Nibbly:
 <ul>
   <li><a href="#features">Features</a></li>
   <li><a href="#Technical-Architecture">Technical Architecture</a></li>
+  <li><a href="#Implementation-Highlights">Implementation Highlights</a></li>
   <li><a href="#Demo-Walkthrough">Demo Walkthrough</a></li>
 </ul>
 <h2 id="features">Features</h2>
@@ -33,7 +34,7 @@ Key goals of Nibbly:
 </ul>
 <h3>Social Features</h3>
 <ul>
-  <li>Like system with real-time UI updates powered</li>
+  <li>Like system with real-time UI updates</li>
   <li>Commenting system to foster recipe discussions and feedback</li>
   <li>User profiles showcasing uploads, liked recipes, bios, and profile details</li>
 </ul>
@@ -58,6 +59,13 @@ Key goals of Nibbly:
 <ul>
   <li><b>TheMealDB API</b>: Fallback recipe provider ensuring continuous discovery</li>
 </ul>
+<h2 id="Implementation-Highlights">Implementation Highlights</h2>
+<h3>Context-Based State Management</h3>
+<p>Implemented React Context to solve real-time UI synchronization challenges across multiple pages, ensuring likes and user data updates reflect instantly without page refreshes—mirroring the responsiveness of production social media apps.</p>
+<h3>Dual-Source Data Architecture</h3>
+<p>Seamlessly integrated user-generated recipes from Firestore with TheMealDB API fallback logic, ensuring users always have content to discover while prioritizing community contributions.</p>
+<h3>Pagination & Performance</h3>
+<p>Implemented cursor-based pagination to efficiently handle large recipe datasets, preventing memory overload and maintaining smooth scrolling.</p>
 <h2 id="Demo-Walkthrough">Demo Walkthrough</h2>
 <h3>Authentication</h3>
 <table>
